@@ -1,0 +1,3 @@
+---- Deployment log -----
+
+# Devnet (24.11.24): https://explorer.solana.com/tx/4wHNvUk6oFJYirfSYaoKrFtMwH8R8nmy196PQuTsff738os9QWZ8nJaknqXMHaUv2cncwTaf4BcVe1Dp5xdnqC4w?cluster=devnet
